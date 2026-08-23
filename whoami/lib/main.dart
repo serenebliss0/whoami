@@ -20,6 +20,6 @@ Widget build(BuildContext context) {
       home: (width < 750) ? MobileUnavailable() : HomePage(),
     );
 
-  //something goes here eventually
+  //something goes here eventually someday
 }
 }
